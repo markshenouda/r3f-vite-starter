@@ -4,6 +4,7 @@ A starter template for [R3F](https://docs.pmnd.rs/react-three-fiber/) with [Vite
 
 ## Features
 
+- [x] TailwindCSS
 - [x] `@react-three/fiber`
 - [x] `@react-three/drei`
 - [x] `@react-three/postprocessing`
